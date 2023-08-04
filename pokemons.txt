@@ -4,4 +4,4 @@ Charmander, Charmeleon, Charizard
 Pichu, Pikachu, Raichu
 Eevee, Vaporeon, N/A
 Caterpie, Metapod, Butterfree
-Psyduck
+Psyduck, Golduck
