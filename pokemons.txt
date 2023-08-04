@@ -1,6 +1,6 @@
 Squirtle, Wartortle
 Bulbasaur, Ivysaur
 Charmander, Charmeleon
-Pichu, Pikachu
+Pichu, Pikachu, Raichu
 Eevee
 Caterpie
