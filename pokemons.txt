@@ -1,6 +1,6 @@
-Squirtle
-Bulbasaur
-Charmander
+Squirtle, Wartortle
+Bulbasaur, Ivysaur
+Charmander, Charmeleon
 Pichu
 Eevee
 Caterpie
