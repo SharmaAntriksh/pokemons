@@ -6,3 +6,4 @@ Eevee, Vaporeon, N/A
 Caterpie, Metapod, Butterfree
 Psyduck, Golduck
 Nidoran, Nidorina, Nidoqueen
+Nidoran, Nidorina, Nidoking
