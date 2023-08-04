@@ -2,5 +2,5 @@ Squirtle, Wartortle, Blastoise
 Bulbasaur, Ivysaur, Venusaur
 Charmander, Charmeleon, Charizard
 Pichu, Pikachu, Raichu
-Eevee, Vaporeon
-Caterpie, Metapod
+Eevee, Vaporeon, N/A
+Caterpie, Metapod, Butterfree
