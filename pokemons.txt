@@ -2,3 +2,4 @@ Squirtle
 Bulbasaur
 Charmander
 Pichu
+Eevee
