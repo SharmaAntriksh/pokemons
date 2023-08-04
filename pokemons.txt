@@ -2,7 +2,7 @@ Squirtle, Wartortle, Blastoise
 Bulbasaur, Ivysaur, Venusaur
 Charmander, Charmeleon, Charizard
 Pichu, Pikachu, Raichu
-Eevee, Vaporeon, N/A
+Abra, Kadabra, Alakazam
 Caterpie, Metapod, Butterfree
 Psyduck, Golduck
 Nidoran, Nidorina, Nidoqueen
