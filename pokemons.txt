@@ -3,4 +3,4 @@ Bulbasaur, Ivysaur
 Charmander, Charmeleon
 Pichu, Pikachu, Raichu
 Eevee, Vaporeon
-Caterpie
+Caterpie, Metapod
