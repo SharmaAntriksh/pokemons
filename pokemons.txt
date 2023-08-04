@@ -1,3 +1,5 @@
-Wartortle
-Charmeleon
-Ivysaur
+Squirtle, Wartortle
+Bulbasaur, Ivysaur
+Charmander, Charmeleon
+Pichu
+Eevee
