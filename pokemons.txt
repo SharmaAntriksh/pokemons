@@ -9,3 +9,4 @@ Nidoran, Nidorina, Nidoqueen
 Nidoran, Nidorina, Nidoking
 Zubat, Golbat, Crobat
 Mankey, Primeape, Annihilape
+Poliwag, Poliwhirl, Poliwrath
