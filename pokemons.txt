@@ -10,3 +10,4 @@ Nidoran, Nidorina, Nidoking
 Zubat, Golbat, Crobat
 Mankey, Primeape, Annihilape
 Poliwag, Poliwhirl, Poliwrath
+Geodude, Graveler, Golem
